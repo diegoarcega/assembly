@@ -1,5 +1,4 @@
-# assembly
-Assembly, university assignment
+
 
 Requirements
 -----
